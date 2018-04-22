@@ -1,0 +1,2 @@
+- build: docker build -t nautilis/ruby_2.3.7 .
+- run： docker run -ti --name ruby_2.3.7 nautilis/ruby_2.3.7
